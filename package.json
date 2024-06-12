@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "html5-qrcode": "^2.3.8",
+    "openai": "^4.49.1"
+  }
+}
